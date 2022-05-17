@@ -1,0 +1,26 @@
+._container{
+    max-width: 1200px;
+    margin:auto;
+    padding:0 15px;
+}
+
+._title-section{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 150%;
+    color: #000000;
+    &--white{
+        color:white;
+    }
+    &--big{
+        font-weight: 900;
+        font-size: 148px;
+    }
+}
+._wrapper{
+    width: 100%;
+    overflow: hidden;
+}
+
